@@ -1,0 +1,45 @@
+
+.pt-2 {
+	padding-top: 2%;
+}
+.pd-2-15{
+	padding: 2% 15%;
+}
+.pd-5-15{
+	padding: 5% 15%;
+}
+.mg-0{
+	margin: 0;
+}
+.w-100{
+	width: 100%;
+}
+.lh{
+	line-height: 1.5;
+}
+.text-bold{
+	font-weight: bold;
+}
+.text-center{
+	text-align: center;
+}
+.text-right{
+	text-align: right;
+}
+.text-white{
+	color: white;
+}
+.text-black{
+	color: #4D4D4D;
+}
+.bg-black{
+	background-color: #4D4D4D;
+}
+.bg-yellow{
+	background-color: #FFA800;
+}
+.bg-img-block{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
